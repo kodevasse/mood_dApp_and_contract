@@ -1,0 +1,1 @@
+Small dapp with solidity code, deploy mood.sol to the testnest and interact with the dApp
